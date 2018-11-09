@@ -1,4 +1,4 @@
-#Thu Nov 08 22:27:30 EST 2018
-base.0=/Users/william/AndroidStudioProjects/WellnessApp/wellness-team/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu Nov 08 22:44:11 EST 2018
+base.0=/Users/brandtdudziak/AndroidStudioProjects/MyFirstApp/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
